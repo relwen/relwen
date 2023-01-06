@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">👋 Salut je m'appel Relwendé Jacob ZOUNDI</h1>
+<h1 align="center">👋 Hi,my name is Relwendé Jacob ZOUNDI</h1>
 <h3 align="center">A passionate MOBILE developer from Burkina Faso</h3>
 
 <img align="left" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
