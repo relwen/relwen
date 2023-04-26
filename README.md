@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [KUILINGA Technologies](https://www.kuilinga.tech/)
+- 🔭 I am currently an IT consultant on IT projects
 
 - 🌱 I’m currently learning **Frameworks**
 
