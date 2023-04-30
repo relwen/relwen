@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.licdn.com/dms/image/D4E16AQHv9WjbQLAoqA/profile-displaybackgroundimage-shrink_350_1400/0/1675731731040?e=1688601600&v=beta&t=ym2qgJWI5kPjIwN2FwFpFTvzLCl-b-f0czmCyyeaO_w))](https://rishavchanda.io)
 <h1 align="center">👋 Hi,my name is Relwendé Jacob ZOUNDI</h1>
 <h3 align="center">A passionate MOBILE developer from Burkina Faso</h3>
 
