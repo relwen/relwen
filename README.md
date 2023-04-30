@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi,my name is Relwendé Jacob ZOUNDI</h1>
 <h3 align="center">A passionate MOBILE developer from Burkina Faso</h3>
 
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY4NjAwNDQ5NWZiNTU5NDQ0NmI2ODIxZWFjMThkYTFlYWVkZTdiMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY4NjAwNDQ5NWZiNTU5NDQ0NmI2ODIxZWFjMThkYTFlYWVkZTdiMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80%"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relwen&label=Profile%20views&color=0e75b6&style=flat" alt="relwen" /> </p>
