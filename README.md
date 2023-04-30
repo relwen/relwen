@@ -40,10 +40,12 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/relwendez"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="relwendez" /></a></p><br><br>
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=relwen&show_icons=true&locale=en&layout=compact&theme=dark" alt="relwen" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=relwen&theme=dark" alt="relwen" />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=relwen&theme=dark" alt="relwen" />
 </p>
 
