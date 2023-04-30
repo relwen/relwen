@@ -47,7 +47,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=relwen&theme=dark" alt="relwen" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=relwen&theme=dark&card_width=451)](https://git.io/streak-stats)
 </p>
 
