@@ -4,6 +4,8 @@
 
 <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY4NjAwNDQ5NWZiNTU5NDQ0NmI2ODIxZWFjMThkYTFlYWVkZTdiMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60%"/>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=relwen&label=Profile%20views&color=0e75b6&style=flat" alt="relwen" /> </p>
 
@@ -44,7 +46,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=relwen&show_icons=true&locale=en&theme=dark" alt="relwen" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=relwen&theme=dark" alt="relwen" />
 </p>
