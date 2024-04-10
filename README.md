@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQHv9WjbQLAoqA/profile-displaybackgroundimage-shrink_350_1400/0/1675731731040?e=1688601600&v=beta&t=ym2qgJWI5kPjIwN2FwFpFTvzLCl-b-f0czmCyyeaO_w)](https://rishavchanda.io)
+[![Relwendé Jacob](https://media.licdn.com/dms/image/D4E16AQHv9WjbQLAoqA/profile-displaybackgroundimage-shrink_350_1400/0/1675731731040?e=1688601600&v=beta&t=ym2qgJWI5kPjIwN2FwFpFTvzLCl-b-f0czmCyyeaO_w)](http://relwendez.site/)
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://relwendez.site)
 
@@ -19,15 +19,7 @@
 
 - 🔭 I am currently an IT consultant on IT projects
 
-- 🌱 I’m currently learning **Frameworks**
-
-- 👯 I’m looking to collaborate on [AfricaSys](https://www.africasys.com/)
-
-- 🤝 I’m looking for help with [http://relwendez.site/](http://relwendez.site/)
-
 - 👨‍💻 All of my projects are available at [https://www.relwendez.site/](https://www.relwendez.site/)
-
-- 📝 I regularly write articles on [https://www.relwendez.site/](https://www.relwendez.site/)
 
 - 📫 How to reach me **jj@relwendez.site**
 
